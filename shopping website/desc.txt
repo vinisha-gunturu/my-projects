@@ -1,0 +1,7 @@
+project theme : Dynamic and responsive shopping website
+  
+technologies used : Html, Css, JavaScript
+  
+no of pages :3 (product-listings , product-in-detail, display-cart)
+
+tools used : VS code
